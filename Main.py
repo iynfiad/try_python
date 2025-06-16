@@ -24,5 +24,4 @@ else:
 
 print('magic 8 ball : ' + answer)
 
-
 print (time.time() - start_time, "seconds")
