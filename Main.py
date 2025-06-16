@@ -3,7 +3,7 @@ import time
 
 start_time = time.time()
 
-question = input('Tanyakan Sesuatu : ')
+question = input('Ask Question : ')
 
 random_num = random.randint(1, 6)
 
@@ -23,5 +23,6 @@ else:
     answer = 'Error'
 
 print('magic 8 ball : ' + answer)
+
 
 print (time.time() - start_time, "seconds")
