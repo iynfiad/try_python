@@ -1,6 +1,6 @@
 import random
 
-question = input('Tanyakan Sesuatu : ')
+question = input('Ask Question : ')
 
 random_num = random.randint(1, 6)
 
