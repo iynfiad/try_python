@@ -12,7 +12,7 @@ if random_num == 1:
 elif random_num == 2:
     answer = 'It is decidedly so'
 elif random_num == 3:
-    answer = 'Apaan?'
+    answer = 'What?'
 elif random_num == 4:
     answer = 'Reply hazy try again'
 elif random_num == 5:
